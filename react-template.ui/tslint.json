@@ -11,7 +11,10 @@
     "only-arrow-functions": [true, "allow-declarations", "allow-named-functions"],
     "no-var-requires": false,
     "no-require-imports": false,
-    "no-console":false
+    "no-console":false,
+    "jsx-no-lambda":false,
+    "no-unused-expressions":false,
+    "ordered-imports": false
   },
   "jsRules":{
     "object-literal-sort-keys": false
